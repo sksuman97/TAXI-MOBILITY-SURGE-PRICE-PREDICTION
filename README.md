@@ -55,6 +55,9 @@ Sumanta | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learn
 
 Contact me for Data Science Project Collaborations
 
-
+# References
+1. A Gentle Introduction to XGBoost for Applied Machine Learning by Jason Brownlee on August 17, 2016 in XGBoost Available- https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+2. wikipedia.org, XGBoost- https://en.wikipedia.org/wiki/XGBoost
+3. wikipedia.org, SMOTE- https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis#SMOTE
 
 
